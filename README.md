@@ -10,3 +10,17 @@ Thisn is a part of a suervey data and it is obtained from Kaggle. The size may b
 - Python programming language
 - Google Colab
 - Pandas, Numpy, Matplotlib and Seaborn Library
+
+# Configuration
+If you want to run directly using API command, then apply the following procedures: <br>
+
+STEP 1: Install kaggle
+~~~
+!pip install kaggle
+~~~
+
+STEP 2: Update with kaggle.json file
+~~~
+from google.colab import files
+files.upload()
+~~~
