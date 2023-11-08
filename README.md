@@ -56,7 +56,7 @@ To analyze the dataset, I have just explained a few questions. Let's explore:
 
 ## Question 1
 
-![Question 1]("C:\Users\USER\Downloads\download.png")
+![Image Description](download.png)
 
 On a scale of 1 to 10, how informed do you think you are about the concept of artificial intelligence? (1-not informed at all, 10-extremely informed)
 
