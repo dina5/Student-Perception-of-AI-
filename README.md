@@ -4,7 +4,7 @@
   <a href="https://github.com/eliashossain001/DiabetesModel_Deployment">
    
   </a>
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDpcfouWyxASZ6BWhVRP__l2USpXwXEJkEfDmJVZWuYt_5Z7IWvdNeksjykcjPO2ddDY&usqp=CAU" alt="diabates">  
+     <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScDpcfouWyxASZ6BWhVRP__l2USpXwXEJkEfDmJVZWuYt_5Z7IWvdNeksjykcjPO2ddDY&usqp=CAU](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQFZimao4lNFLg%2Farticle-cover_image-shrink_720_1280%2F0%2F1689358238912%3Fe%3D2147483647%26v%3Dbeta%26t%3DER_5wlgvcZU_bkiY0c4MH1ufcQfszHUonkZ3ca-rC3g&tbnid=qPQ2XJdDL6EnSM&vet=12ahUKEwjop4CAnLSCAxWtfGwGHcWqC5oQMygEegQIARB2..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ffuture-ai-education-sushil-pandey&docid=QTDMbZYT0CDKbM&w=1280&h=682&q=ai%20in%20education&ved=2ahUKEwjop4CAnLSCAxWtfGwGHcWqC5oQMygEegQIARB2)" alt="diabates">  
   <h3 align="center">Diabetes-prediction Web Application</h3>
 
   <p align="center">
