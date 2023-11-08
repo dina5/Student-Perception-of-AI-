@@ -79,6 +79,24 @@ Some things that would be interesting to know would be what proportion of the st
 
 **Insight:** We can see visually that the internet is by far the most commonly used source of information. this makes sense as a internet contains a huge library of available of information. Very few students claimed to be uninformed so hopefully that is a positive step in the right direction.
 
+# Overall Findings
 
+Although this is an incomplete analysis, there have been many interesting insights that have been found. These include:
+
+1. Most students had an AI knowledge rating between 4 and 8.
+2. The internet is the most common source of information.
+3. There are mainly two groups of attitudes towards AI:
+   - Students who think AI will solve problems and boost the economy.
+   - Students who think AI will reduce the number of opportunities for humans, including jobs.
+4. Increased AI knowledge rating tended to have more positive opinions.
+5. Most students are curious about AI.
+6. Students think that medicine will be the domain that sees the largest impact from AI.
+7. Students think art will see the smallest impact from AI.
+8. AI knowledge rating is correlated with utility grading.
+9. Female year 3 students in stats and economic forecasting had the highest representation in the survey.
+10. Male students included in the survey tended to have significantly lower rates of passing all their exams.
+11. There is a weak correlation between AI knowledge rating and GPA.
+
+These findings provide valuable insights into the perceptions and attitudes of students towards artificial intelligence.
 
 
