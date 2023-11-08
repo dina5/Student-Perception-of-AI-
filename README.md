@@ -24,3 +24,19 @@ STEP 2: Update with kaggle.json file
 from google.colab import files
 files.upload()
 ~~~
+
+STEP 3: Move the uploaded "kaggle.json" file to the correct location. Run the following command in a code cell:
+~~~
+!mkdir ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+~~~
+
+STEP 4: Set the appropriate permissions
+~~~
+!chmod 600 ~/.kaggle/kaggle.json
+~~~
+
+STEP 5: Now unzip the dataset
+~~~
+!unzip survey-on-students-perceptions-of-ai-in-education
+~~~
