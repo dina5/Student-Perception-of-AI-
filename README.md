@@ -50,4 +50,16 @@ STEP 5: Now unzip the dataset
 | 2  | 3             | 5            | Internet; Books/Scientific papers (physical/online) | 1 | 1 | 0 | 0 | 0 | 2 | 1 | ... | 6 | 3 | 3 | 3 | 4 | 2 | 2 | 2 | 0 | 7.2 |
 
 
+# Exploratory data analysis based on the survey questions
 
+To analyze the dataset, I have just explained a few questions. Let's explore:
+
+## Question 1
+
+![Question 1]("C:\Users\USER\Downloads\download.png")
+
+On a scale of 1 to 10, how informed do you think you are about the concept of artificial intelligence? (1-not informed at all, 10-extremely informed)
+
+The first thing we would like to know is what is the general distribution of how informed people think they are. This can be done using a seaborn countplot - using the dataframe df and x is the name of the Q1 column. I have used a red color for the bars to ensure consistency across the graphs.
+
+**Insight:** The results of the first question seem to form a bell curve with most students having a confidence of 5 to 7 and some outliers who have a confidence of 1, 2, 3, or 10. We can explore more about some of the students that fall in these ranges in more detail later.
