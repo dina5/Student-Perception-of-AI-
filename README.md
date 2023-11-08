@@ -40,3 +40,14 @@ STEP 5: Now unzip the dataset
 ~~~
 !unzip survey-on-students-perceptions-of-ai-in-education
 ~~~
+
+# First few columns of the dataset
+
+| ID | Q1.AI_knowledge | Q2.AI_sources | Q2#1.Internet | Q2#2.Books/Papers | Q2#3.Social_media | Q2#4.Discussions | Q2#5.NotInformed | Q3#1.AI_dehumanization | Q3#2.Job_replacement | ... | Q7.Utility_grade | Q8.Advantage_teaching | Q9.Advantage_learning | Q10.Advantage_evaluation | Q11.Disadvantage_educational_process | Q12.Gender | Q13.Year_of_study | Q14.Major | Q15.Passed_exams | Q16.GPA |
+|----|-----------------|--------------|--------------|------------------|-----------------|-----------------|------------------|-----------------------|-------------------|-----|-----------------|-----------------------|----------------------|------------------------|----------------------------------|----------|-----------------|----------|-----------------|-------|
+| 0  | 1             | 8            | Internet     | Books/Scientific papers (physical/online) | 1 | 1 | 0 | 0 | 1 | 2 | ... | 9 | 3 | 1 | 2 | 3 | 1 | 2 | 2 | 1 | 9.2 |
+| 1  | 2             | 7            | Internet; Social media | 1 | 0 | 1 | 0 | 0 | 2 | 3 | ... | 6 | 2 | 2 | 1 | 2 | 2 | 2 | 2 | 1 | 7.7 |
+| 2  | 3             | 5            | Internet; Books/Scientific papers (physical/online) | 1 | 1 | 0 | 0 | 0 | 2 | 1 | ... | 6 | 3 | 3 | 3 | 4 | 2 | 2 | 2 | 0 | 7.2 |
+
+
+
