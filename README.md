@@ -56,7 +56,8 @@ To analyze the dataset, I have just explained a few questions. Let's explore:
 
 ## Question 1
 
-On a scale of 1 to 10, how informed do you think you are about the concept of artificial intelligence? (1-not informed at all, 10-extremely informed)<br>
+On a scale of 1 to 10, how informed do you think you are about the concept of artificial intelligence? <br>
+
 The first thing we would like to know is what is the general distribution of how informed people think they are. This can be done using a seaborn countplot - using the dataframe df and x is the name of the Q1 column. I have used a red color for the bars to ensure consistency across the graphs.
 
 ![download](https://github.com/dina5/Student-Perception-of-AI-/assets/24854710/c3a18989-226f-470c-944a-d5765fe3d11e)
