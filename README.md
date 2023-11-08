@@ -63,3 +63,22 @@ The first thing we would like to know is what is the general distribution of how
 ![download](https://github.com/dina5/Student-Perception-of-AI-/assets/24854710/c3a18989-226f-470c-944a-d5765fe3d11e)
 
 **Insight:** The results of the first question seem to form a bell curve with most students having a confidence of 5 to 7 and some outliers who have a confidence of 1, 2, 3, or 10. We can explore more about some of the students that fall in these ranges in more detail later.
+
+## Question 2
+
+What sources do you use to learn about the concept of artificial intelligence?
+- Internet
+- Books/Scientific Papers
+- Social Media
+- Discussions
+- "I don't inform myself about AI"
+  
+Some things that would be interesting to know would be what proportion of the students use each source (2i), is there any correlation between the sources used (2ii) and how is a student's ai knowledge rating related to their sources of information (2iii)
+
+![002](https://github.com/dina5/Student-Perception-of-AI-/assets/24854710/b165399a-3454-4d54-8e8a-c8bb1db1f427)
+
+**Insight:** We can see visually that the internet is by far the most commonly used source of information. this makes sense as a internet contains a huge library of available of information. Very few students claimed to be uninformed so hopefully that is a positive step in the right direction.
+
+
+
+
